@@ -5,7 +5,7 @@ medical grade, but just something a little better than the bandanas available at
 Unfortunately the primary feedback I got back was a difficulty in getting enough breath. This was due to the Montana Mask focusing on
 making far more masks from a limited supply of N-95 face masks by slicing the N-95 masks and using small sections as filters.
 
-I didn't have that problem - as this was just intended for casual use I was using shop towels. They aren't as effective as N-95, but they
+I didn't have that problem as this was just intended for casual use, and I was using shop towels. They aren't as effective as N-95, but they
 do appear to be 2-to-3x better than cotton according to some studies.
 
 As such I chose to design an adapter that can be stuck to the front of the Montana Mask and provides about 2x the surface area for air to
